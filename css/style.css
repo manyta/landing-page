@@ -307,6 +307,7 @@ textarea.form-control{
 	height: 100vh;
 	background: url("../img/bg-inner.jpg") no-repeat center / cover;
 	text-align: center;
+	position: relative;
 }
 .inner::before{
 	content: '';
@@ -333,6 +334,15 @@ textarea.form-control{
     font-size: 19px;
 	line-height: 1.89;
 	color: rgba(255, 255, 255, .68);
+}
+.go-to-block.rhomb-icon.white-icon{
+    margin-left: -15px;
+    position: absolute;
+    bottom: 20px;
+	left: 50%;
+}
+.go-to-block .fa.fa-angle-down{ 
+	padding-top: 9px;
 }
 
 @media (max-width:1199px){
