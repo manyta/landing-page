@@ -15,7 +15,7 @@ Bootstrap v3.3.7
 #### Секции
 .default-section - стандартная секция
 
-.default-section.small-section - уменьшенная секция от стандартной
+.default-section.small-section - уменьшенная секция
 
 .footer - секция с размерами под футер
 #### Иконка в виде ромба
@@ -46,10 +46,10 @@ Bootstrap v3.3.7
 
 .header-nav - навигация шапки
 
-.header .navbar-toggle - навигация в меньшем разрешении
+.header .navbar-toggle - навигация в меньшем разрешении экрана
 
 #### Таб
-.nav-tabs - табы в Servises и Portfolio
+.nav-tabs - табы в Services и Portfolio
 #### Кнопки
 .btn - кнопка
 
@@ -65,13 +65,13 @@ Bootstrap v3.3.7
 #### Форма
 .form-control - форма для ввода данных
 ### Выравнивание через классы Bootstrap
-text-center - по середине
+text-center - посередине
 
 pull-left - влево
 
 pull-right - вправо
 ### Media запросы
-#### Констрольные точки
+#### Контрольные точки
 * 1199px - проверка 992px
 * 991px - проверка 768px
 * 767px - проверка 600px
